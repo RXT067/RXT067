@@ -1,5 +1,9 @@
 RiXotStudio's project 067 (RXT067 for short) is work in progress name of Linux distribution based on Gentoo Linux, Argent GNU/Linux and LinuxFromSource.
 
+# INSTALLATION
+
+*WORK IN PROGRESS*
+
 ## ABSTRACT
 
 Gentoo Linux fork that works Out Of The Box (OOTB) without sacrificing end-users performance and optimization for multiple configurations including Desktop Environments (DE) and Window Managers (WM) presets.
@@ -8,7 +12,7 @@ Optionally binhosts provided by Argent GNU/Linux will/are also available in our 
 
 Our goal is to make gentoo fork with additional features that works on all devices at the best possible performance and optimization.
 
-# Ethical Codex:
+## ETHICAL CODEX
 **1) Security is the most important!**<br />
 Sacrificing performance and optimization over security is allowed if neccesary.
 
