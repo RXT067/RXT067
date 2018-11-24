@@ -68,3 +68,5 @@ If the overengineering reaches a point where it affects end-user system with low
 - KSEGIS - mirror+finish
 - KULUS (Low priority) - mirror+finish
 - KAVALISE - mirror+finish
+- Add apt, dnf, pacman optionally
+- Add DE/WM with default preset
