@@ -70,3 +70,4 @@ If the overengineering reaches a point where it affects end-user system with low
 - KAVALISE - mirror+finish
 - Add apt, dnf, pacman optionally
 - Add DE/WM with default preset
+- Add gentoo ebuilds + verified forks
