@@ -65,6 +65,6 @@ If the overengineering reaches a point where it affects end-user system with low
 - Add wine-staging in wine-any
 - Add wine-d3d9 in wine-any
 - Add DXVK
-- KSEGIS
-- KULUS (Low priority)
-- KAVALISE
+- KSEGIS - mirror+finish
+- KULUS (Low priority) - mirror+finish
+- KAVALISE - mirror+finish
