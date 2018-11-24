@@ -1,3 +1,5 @@
+## *I am the beginning, the end, the one who is many. I am the...*
+
 RiXotStudio's project 067 (RXT067 for short) is work in progress name of Linux distribution based on Gentoo Linux, Argent GNU/Linux and LinuxFromSource.
 
 # INSTALLATION
