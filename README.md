@@ -13,7 +13,7 @@ Optionally binhosts provided by Argent GNU/Linux will/are also available in our 
 Our goal is to make gentoo fork with additional features that works on all devices at the best possible performance and optimization.
 
 ## ETHICAL CODEX
-**1) Security is the most important!**<br />
+#### 1) Security is the most important!
 Sacrificing performance and optimization over security is allowed if neccesary.
 
 
